@@ -7,4 +7,4 @@ Please see our [documentation](https://docs.labforge.ca)
 for more information.
 
  * See [firmware](/firmware) for firmware updates
- * See [drivers](/drivers_and_sdk) for client utilities to get started
+ * See [drivers](/driver_and_sdk) for client utilities to get started
