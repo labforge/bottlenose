@@ -6,5 +6,5 @@ firmware updates to get started with the Bottlenose camera.
 Please see our [documentation](https://docs.labforge.ca) 
 for more information.
 
- * See [firmware](/firmware) for firmware updates
- * See [drivers](/driver_and_sdk) for client utilities to get started
+Please see the [Releases](https://github.com/labforge/bottlenose/releases) page for the current bottlenose firmware,
+SDK, and client utilities.
